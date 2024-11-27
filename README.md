@@ -1,6 +1,6 @@
 # ABSLD: Improving Adversarial Robust Fairness via Anti-Bias Soft Label Distillation (NeruIPS2024)
 
-The checkpoint of ABSLD can be viewed in here[https://drive.google.com/drive/folders/1-rz49FBrYw6RldaRxB3yvrR8cd4liVZG?usp=sharing].
+The checkpoint of ABSLD can be viewed in [here](https://drive.google.com/drive/folders/1-rz49FBrYw6RldaRxB3yvrR8cd4liVZG?usp=sharing).
 
 ### the running environment
 
