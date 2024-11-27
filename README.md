@@ -1,3 +1,29 @@
-# ABSLD: Improving Adversarial Robust Fairness via Anti-Bias Soft Label Distillation
-Accepted by NeruIPS2024.
-The entire instruction and model checkpoint will be relased soon.
+# ABSLD: Improving Adversarial Robust Fairness via Anti-Bias Soft Label Distillation (NeruIPS2024)
+
+
+### the running environment
+
+```bash
+python=3.8 
+pytorch=1.6
+cuda = 11.3
+numpy=1.19
+```
+
+### training resnet18 on cifar10:
+
+```bash
+python absld_resnet18_cifar10.py
+```
+
+
+### Citation
+
+```bash
+@inproceedings{Zhao2024ABSLD,
+title={ Improving Adversarial Robust Fairness via Anti-Bias Soft Label Distillation},
+author={Shiji Zhao and Ranjie Duan and Xizhe Wang and Xingxing Wei},
+booktitle={NeruIPS},
+year={2024},
+}
+```
