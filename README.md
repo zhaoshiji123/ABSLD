@@ -13,7 +13,7 @@ numpy=1.19
 ### training resnet18 on cifar10:
 
 ```bash
-python absld_resnet18_cifar10.py
+python resnet18_absld_cifar10.py
 ```
 
 
